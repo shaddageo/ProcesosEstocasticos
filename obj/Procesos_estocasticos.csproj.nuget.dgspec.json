@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giorgina Caballero\\Desktop\\Procesos_estocasticos\\Procesos_estocasticos.csproj": {}
+    "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\ProcesosEstocasticos\\Procesos_estocasticos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giorgina Caballero\\Desktop\\Procesos_estocasticos\\Procesos_estocasticos.csproj": {
+    "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\ProcesosEstocasticos\\Procesos_estocasticos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giorgina Caballero\\Desktop\\Procesos_estocasticos\\Procesos_estocasticos.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\ProcesosEstocasticos\\Procesos_estocasticos.csproj",
         "projectName": "Procesos_estocasticos",
-        "projectPath": "C:\\Users\\Giorgina Caballero\\Desktop\\Procesos_estocasticos\\Procesos_estocasticos.csproj",
-        "packagesPath": "C:\\Users\\Giorgina Caballero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giorgina Caballero\\Desktop\\Procesos_estocasticos\\obj\\",
+        "projectPath": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\ProcesosEstocasticos\\Procesos_estocasticos.csproj",
+        "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\ProcesosEstocasticos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Giorgina Caballero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "HIC.System.Windows.Forms.DataVisualization": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
