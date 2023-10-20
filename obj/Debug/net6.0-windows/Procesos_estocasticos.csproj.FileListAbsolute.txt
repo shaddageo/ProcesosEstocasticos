@@ -1,0 +1,17 @@
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\bin\Debug\net6.0-windows\Procesos_estocasticos.exe
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\bin\Debug\net6.0-windows\Procesos_estocasticos.deps.json
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\bin\Debug\net6.0-windows\Procesos_estocasticos.runtimeconfig.json
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\bin\Debug\net6.0-windows\Procesos_estocasticos.dll
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\bin\Debug\net6.0-windows\Procesos_estocasticos.pdb
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\obj\Debug\net6.0-windows\Procesos_estocasticos.Form1.resources
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\obj\Debug\net6.0-windows\Procesos_estocasticos.Properties.Resources.resources
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\obj\Debug\net6.0-windows\Procesos_estocasticos.csproj.GenerateResource.cache
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\obj\Debug\net6.0-windows\Procesos_estocasticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\obj\Debug\net6.0-windows\Procesos_estocasticos.AssemblyInfoInputs.cache
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\obj\Debug\net6.0-windows\Procesos_estocasticos.AssemblyInfo.cs
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\obj\Debug\net6.0-windows\Procesos_estocasticos.csproj.CoreCompileInputs.cache
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\obj\Debug\net6.0-windows\Procesos_estocasticos.dll
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\obj\Debug\net6.0-windows\refint\Procesos_estocasticos.dll
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\obj\Debug\net6.0-windows\Procesos_estocasticos.pdb
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\obj\Debug\net6.0-windows\Procesos_estocasticos.genruntimeconfig.cache
+C:\Users\Giorgina Caballero\Desktop\Procesos_estocasticos\obj\Debug\net6.0-windows\ref\Procesos_estocasticos.dll
